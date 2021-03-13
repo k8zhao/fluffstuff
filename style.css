@@ -169,6 +169,10 @@ button:hover {
     border-radius: 4px;
 }
 
+#shop-now-btn:hover {
+    color: rgb(0, 0, 0, .7);
+}
+
 .btn-right { 
     float: right;
     padding: 2em 0;
